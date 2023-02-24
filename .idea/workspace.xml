@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cfd395c-257d-4af2-b17e-d9c9222a26c7" name="변경" comment="rds 만들고 새로 커밋1405">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677197624705</updated>
       <workItem from="1677197626962" duration="5103000" />
-      <workItem from="1677208874728" duration="2495000" />
+      <workItem from="1677208874728" duration="6454000" />
     </task>
     <task id="LOCAL-00001" summary="build">
       <created>1677203242310</created>
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677214903337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rds 만들고 새로 커밋1405">
+      <created>1677215155075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677215155075</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
