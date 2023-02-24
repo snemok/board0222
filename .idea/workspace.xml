@@ -4,7 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb84cfac-52ee-4aba-869d-03b1709e3b72" name="Changes" comment="region update" />
+    <list default="true" id="1cfd395c-257d-4af2-b17e-d9c9222a26c7" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/board.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.insight.board.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bootJarMainClassName" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/BoardApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/aop/LoggerAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/aop/TransactionAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/BoardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/JpaBoardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/RestBoardApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/RestBoardController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/dto/BoardDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/dto/BoardFileDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/entity/BoardEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/entity/BoardFileEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/mapper/BoardMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/repository/JpaBoardRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/BoardService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/BoardServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/JpaBoardService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/JpaBoardServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/common/ExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/common/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/configuration/WebMvcConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/interceptor/LoggerInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/jib-classpath-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/jib-main-class-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/6b7d2c5dba5d33fa890975fb60e90dfd6eb9d5d0017a90d154c7adcd15888b43/c88d7aa8ed7a6d4c67dc5a1b6aa73540f19ed803089d248bbc1ca7ba69841243" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/a15cdd02dc6e6ee268770a6f3369f21b349c1da19c27b9df7a8fac427fbfc637/02236531745bda87aeacf36b35f34dfb6281c470849ad33ecd81b5c24e4c1842" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/b9aa6db71b508bc944b97cd78482c905b6e5669cf40f6a0e6c7d5a11ec287c40/9115413cf247191ba10531609433fb8a40042684627a743507d0ee314daa8e13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/d7b79c2595b6c1a916cd1767239da66d5caf6d507d47fa1769a8ea63cf5eb3d2/2250634736149252d627183096724173f02ac8879e70462462da58d177c20e11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/d964791217e8f8aa82d72928cbd5684a64817ff8f112b7e2d305174f12832df0/992653df1532a2c6e81e92f60b57a2e7837c347d4270efb8c1be4dd7486c872c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/34d4604b5cb2cf36a9284a8c8680f881b7883220f686394810d96fd101e4585f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/81db50212769ea6522e11e5b2c8a771c3e27a8d59fd051a48945d8aa85a3d0a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/b35be196a6595ebd5d6c48c9b6a6062b73351e09af197add4e0035faab1d3601" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/cdfc2d4e4cd2f25015f905c74ca80040c8d19fb432b18493a39c217c13eab492" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/ec50309c0b097e3a970efd9288533b852fd5a119a70393c118374ca2fe4b297a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-image.digest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-image.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/jib-image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/board-ver1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/log4jdbc.log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mapper/sql-board.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardWrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardWrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardWrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/error/error_default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,395 +102,58 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="board" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="board" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="board" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="master" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
-    <option name="isToolWindowVisible" value="false" />
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2LV1sLQL1O0vokz8qkUjrDmqdOJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2MA5c9LooQTaL8txhggCOvxrkvH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelOrder2&quot;: &quot;2&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth2&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/강의자료/프레임워크/스프링부트/Spring-Boot-master/08장_jib_final&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.31954023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;cd9f26677aa013475b338eb8671f03c4&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/kuber0224/08장_jib_final",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "spring.configuration.checksum": "41d2fc3d168ea5d5adb07938571b894b"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\강의자료\프레임워크\스프링부트\Spring-Boot-master\08장_jib_final" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Gradle.08장 [bootJar]">
-    <configuration name="08장 [bootJar]" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootJar" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="08장 [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="BoardApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="com.insight.board.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="board.BoardApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="board.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="board.BoardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.08장 [bootRun]" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="bb84cfac-52ee-4aba-869d-03b1709e3b72" name="Changes" comment="" />
-      <created>1675941643871</created>
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="1cfd395c-257d-4af2-b17e-d9c9222a26c7" name="변경" comment="" />
+      <created>1677197624705</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675941643871</updated>
-      <workItem from="1675941646790" duration="1212000" />
-      <workItem from="1675991323014" duration="315000" />
-      <workItem from="1676291262598" duration="2581000" />
-      <workItem from="1676295480498" duration="1520000" />
-      <workItem from="1676334889582" duration="5377000" />
-      <workItem from="1676428491145" duration="4647000" />
-      <workItem from="1676514125743" duration="688000" />
-      <workItem from="1676592410132" duration="4263000" />
-      <workItem from="1676682684479" duration="8310000" />
-      <workItem from="1676715017415" duration="609000" />
-      <workItem from="1676789041015" duration="1526000" />
-      <workItem from="1676851694152" duration="7152000" />
-      <workItem from="1677021777931" duration="2508000" />
-      <workItem from="1677026866971" duration="4348000" />
-      <workItem from="1677123583086" duration="7869000" />
-      <workItem from="1677135063403" duration="965000" />
-      <workItem from="1677136987243" duration="2223000" />
-      <workItem from="1677148523029" duration="4377000" />
+      <updated>1677197624705</updated>
+      <workItem from="1677197626962" duration="1827000" />
     </task>
-    <task id="LOCAL-00001" summary="test1">
-      <created>1677124305116</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1677124305116</updated>
-    </task>
-    <task id="LOCAL-00002" summary="test1">
-      <created>1677128193595</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1677128193595</updated>
-    </task>
-    <task id="LOCAL-00003" summary="test12">
-      <created>1677128948891</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1677128948891</updated>
-    </task>
-    <task id="LOCAL-00004" summary="test12">
-      <created>1677129182450</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1677129182450</updated>
-    </task>
-    <task id="LOCAL-00005" summary="test12">
-      <created>1677130551242</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1677130551242</updated>
-    </task>
-    <task id="LOCAL-00006" summary="region update">
-      <created>1677132138379</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1677132138379</updated>
-    </task>
-    <task id="LOCAL-00007" summary="region update">
-      <created>1677133360696</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133360696</updated>
-    </task>
-    <task id="LOCAL-00008" summary="region update">
-      <created>1677133469151</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133469151</updated>
-    </task>
-    <task id="LOCAL-00009" summary="region update">
-      <created>1677133581328</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133581328</updated>
-    </task>
-    <task id="LOCAL-00010" summary="region update">
-      <created>1677133622620</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133622620</updated>
-    </task>
-    <task id="LOCAL-00011" summary="region update">
-      <created>1677133825371</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133825371</updated>
-    </task>
-    <task id="LOCAL-00012" summary="region update">
-      <created>1677133909125</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133909125</updated>
-    </task>
-    <task id="LOCAL-00013" summary="region update">
-      <created>1677133989114</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1677133989114</updated>
-    </task>
-    <task id="LOCAL-00014" summary="region update">
-      <created>1677135185005</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1677135185005</updated>
-    </task>
-    <task id="LOCAL-00015" summary="region update">
-      <created>1677135539063</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1677135539063</updated>
-    </task>
-    <task id="LOCAL-00016" summary="region update">
-      <created>1677135702842</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1677135702842</updated>
-    </task>
-    <task id="LOCAL-00017" summary="region update">
-      <created>1677139794130</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1677139794130</updated>
-    </task>
-    <task id="LOCAL-00018" summary="region update">
-      <created>1677149548592</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1677149548592</updated>
-    </task>
-    <task id="LOCAL-00019" summary="region update">
-      <created>1677149715133</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1677149715133</updated>
-    </task>
-    <task id="LOCAL-00020" summary="region update">
-      <created>1677149897963</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1677149897963</updated>
-    </task>
-    <task id="LOCAL-00021" summary="region update">
-      <created>1677150621633</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1677150621633</updated>
-    </task>
-    <task id="LOCAL-00022" summary="region update">
-      <created>1677151055624</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1677151055624</updated>
-    </task>
-    <task id="LOCAL-00023" summary="region update">
-      <created>1677152145001</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1677152145001</updated>
-    </task>
-    <task id="LOCAL-00024" summary="region update">
-      <created>1677152151378</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1677152151378</updated>
-    </task>
-    <task id="LOCAL-00025" summary="region update">
-      <created>1677152234750</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1677152234750</updated>
-    </task>
-    <task id="LOCAL-00026" summary="region update">
-      <created>1677152737527</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1677152737527</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="test1" />
-    <MESSAGE value="test12" />
-    <MESSAGE value="region update" />
-    <option name="LAST_COMMIT_MESSAGE" value="region update" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

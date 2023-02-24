@@ -53,11 +53,11 @@ jib {
   from {
     image = 'adoptopenjdk/openjdk11:alpine-jre'
   }
-  to {
-    image = 'seoulit7/jib_test'
-    tags = ['5.0']
+//  to {
+//    image = 'seoulit7/jib_test'
+//    tags = ['5.0']
+//  }
 
-  }
   container {
     entrypoint = ['java', '-Dspring.profiles.active=test', '-jar', 'board-ver1.0.jar']
 
