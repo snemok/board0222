@@ -4,7 +4,7 @@ def region="ap-northeast-2"  //서울은 2
 // def ecrUrl="598552988151.dkr.ecr.ap-northeast-1.amazonaws.com"  // 원장님꺼
 def ecrUrl="134977872812.dkr.ecr.ap-northeast-2.amazonaws.com"  //본인 ecr url 확인
 def repository="board0222"  // 리포지토리명 넣기
-// def deployHost="54.168.148.170"  // 원장님꺼
+// def deployHost="54.168.148.170"  // 원장님꺼임
 def deployHost="13.209.65.55"  // EC2 퍼블릭 ip 넣기
 
 pipeline {
