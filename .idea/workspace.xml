@@ -4,93 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cfd395c-257d-4af2-b17e-d9c9222a26c7" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/board.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.insight.board.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1cfd395c-257d-4af2-b17e-d9c9222a26c7" name="변경" comment="build">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.springframework.ide.eclipse.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bootJarMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/BoardApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/ServletInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/aop/LoggerAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/aop/TransactionAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/BoardController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/JpaBoardController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/RestBoardApiController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/controller/RestBoardController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/dto/BoardDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/dto/BoardFileDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/entity/BoardEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/entity/BoardFileEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/mapper/BoardMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/repository/JpaBoardRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/BoardService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/BoardServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/JpaBoardService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/board/service/JpaBoardServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/common/ExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/common/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/configuration/WebMvcConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/board/interceptor/LoggerInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/jib-classpath-file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/jib-main-class-file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/6b7d2c5dba5d33fa890975fb60e90dfd6eb9d5d0017a90d154c7adcd15888b43/c88d7aa8ed7a6d4c67dc5a1b6aa73540f19ed803089d248bbc1ca7ba69841243" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/a15cdd02dc6e6ee268770a6f3369f21b349c1da19c27b9df7a8fac427fbfc637/02236531745bda87aeacf36b35f34dfb6281c470849ad33ecd81b5c24e4c1842" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/b9aa6db71b508bc944b97cd78482c905b6e5669cf40f6a0e6c7d5a11ec287c40/9115413cf247191ba10531609433fb8a40042684627a743507d0ee314daa8e13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/d7b79c2595b6c1a916cd1767239da66d5caf6d507d47fa1769a8ea63cf5eb3d2/2250634736149252d627183096724173f02ac8879e70462462da58d177c20e11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/layers/d964791217e8f8aa82d72928cbd5684a64817ff8f112b7e2d305174f12832df0/992653df1532a2c6e81e92f60b57a2e7837c347d4270efb8c1be4dd7486c872c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/34d4604b5cb2cf36a9284a8c8680f881b7883220f686394810d96fd101e4585f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/81db50212769ea6522e11e5b2c8a771c3e27a8d59fd051a48945d8aa85a3d0a4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/b35be196a6595ebd5d6c48c9b6a6062b73351e09af197add4e0035faab1d3601" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/cdfc2d4e4cd2f25015f905c74ca80040c8d19fb432b18493a39c217c13eab492" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-cache/selectors/ec50309c0b097e3a970efd9288533b852fd5a119a70393c118374ca2fe4b297a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-image.digest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-image.id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jib-image.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/board-ver1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/log4jdbc.log4j2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/mapper/sql-board.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardDetail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/boardWrite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardDetail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/jpaBoardWrite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardDetail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/board/restBoardWrite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/error/error_default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,11 +66,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677197624705</updated>
-      <workItem from="1677197626962" duration="1827000" />
+      <workItem from="1677197626962" duration="4644000" />
     </task>
+    <task id="LOCAL-00001" summary="build">
+      <created>1677203242310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677203242310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build" />
+    <option name="LAST_COMMIT_MESSAGE" value="build" />
   </component>
 </project>

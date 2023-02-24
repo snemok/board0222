@@ -1,9 +1,11 @@
 def mainDir="."
 def ecrLoginHelper="docker-credential-ecr-login"
-def region="ap-northeast-1"
-def ecrUrl="598552988151.dkr.ecr.ap-northeast-1.amazonaws.com"
-def repository="board"
-def deployHost="54.168.148.170"
+def region="ap-northeast-2"  //서울은 2
+// def ecrUrl="598552988151.dkr.ecr.ap-northeast-1.amazonaws.com"  // 원장님꺼
+def ecrUrl="134977872812.dkr.ecr.ap-northeast-2.amazonaws.com"  //본인 ecr url 확인
+def repository="board0222"  // 리포지토리명 넣기
+// def deployHost="54.168.148.170"  // 원장님꺼
+def deployHost="13.209.65.55"  // EC2 퍼블릭 ip 넣기
 
 pipeline {
     agent any
@@ -21,7 +23,7 @@ pipeline {
         }
                 stage('Build Docker Image by Jib & Push to AWS ECR Repository') {
                     steps {
-                        withAWS(region:"${region}", credentials:"aws-key") {
+                        withAWS(region:"${region}", credentials:"aws-key") { //젠킨스 크레덴셜 ID와 동일하게
                             ecrLogin()
                             sh """
                                 curl -O https://amazon-ecr-credential-helper-releases.s3.us-east-2.amazonaws.com/0.4.0/linux-amd64/${ecrLoginHelper}
